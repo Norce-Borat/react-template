@@ -180,17 +180,3 @@ Make sure to replace the `MONGO_URI` with your actual MongoDB connection string 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
----
-
-### **Key Sections Explained**:
-
-1. **Project Description**: Describes what the project is about and its core features.
-2. **Tech Stack**: Lists the technologies used in both the frontend and backend.
-3. **Folder Structure**: Shows the overall project structure, highlighting the `client` and `server` folders.
-4. **Installation and Setup**: Provides instructions on how to set up and run both the frontend and backend locally.
-5. **API Endpoints**: Documents the available API endpoints for the backend and how to interact with them.
-6. **Running the Project**: Explains how to run both parts of the project either separately or simultaneously.
-7. **Features**: Summarizes the key features of the app.
-8. **Environment Variables**: Details the `.env` configurations for both frontend and backend.
